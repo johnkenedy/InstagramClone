@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/johnk/AndroidStudioProjects/Instagram/app/src/main/res/drawable/edit_text_background.xml" value="0.14907407407407408" />
         <entry key="..\:/Users/johnk/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_bullet.xml" value="0.22291666666666668" />
         <entry key="..\:/Users/johnk/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_camera.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/johnk/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_home.xml" value="0.18425925925925926" />
         <entry key="..\:/Users/johnk/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_profile.xml" value="0.22291666666666668" />
         <entry key="..\:/Users/johnk/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_profile_thin.xml" value="0.22291666666666668" />
         <entry key="..\:/Users/johnk/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_more.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/johnk/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/johnk/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
