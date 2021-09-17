@@ -55,6 +55,7 @@
 
             <Button
                 android:id="@+id/btn_login_enter"
+                android:enabled="false"
                 style="@style/Theme.Instagram.Button"
                 android:text="@string/enter" />
 
